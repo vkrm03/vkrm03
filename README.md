@@ -11,7 +11,7 @@
 
 - 📫 You can reach me **vikramrokith03@gmail.com**
 
-- 📄 Know about my experiences (github.com/vkrm03/vkrm03/blob/main/vikram_resume.pdf)
+- 📄 Know about my experiences [View My Resume](https://github.com/vkrm03/vkrm03/blob/main/vikram_resume.pdf)
 
 - ⚡ Fun fact **"A programmer's code might run perfectly on the first try, but debugging is where the real adventure begins!😆"**
 
