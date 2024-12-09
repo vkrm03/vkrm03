@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkrm03&label=Profile%20views&color=0e75b6&style=flat" alt="vkrm03" /> </p>
 
-- 🔭 I’m currently working on **Attendance management sys (Web App & IOT) project.**
+- 🔭 I’m currently working on **(Software & IOT) project.**
 
 - 🌱 I’m currently learning **Flutter & Dart**
 
