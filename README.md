@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
   <a href="https://github.com/vkrm03">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Vikram Banner" />
+    <img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InJhZ2UiLCJ0ZXh0IjoiVmlrcmFtIiwiaWF0IjoxNzQ5NTgxNzI2fQ.Rl3I71ClUBrt4qhNphodRnyZwaY82vozgTxAqbvboCM" alt="Vikram Banner" />
   </a>
 </p>
 
@@ -10,19 +10,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20MERN%20developer;AI/ML%20%2B%20IoT%20Innovator;Open%20Source%20Contributor;Always%20Learning%20Something%20New!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
-</p>
-
-<!-- Social Icons -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/vikrma"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/vkrm03"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:vikramrokith03@gmail.com"><img width="32px" alt="Gmail" title="Mail Me" src="https://img.icons8.com/fluency/48/gmail.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img width="32px" alt="Discord" title="Discord" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/vkrm03"><img width="32px" alt="GitHub" title="GitHub" src="https://img.icons8.com/ios-glyphs/30/github.png"/></a>
 </p>
 
 <!-- Optional Metrics -->
