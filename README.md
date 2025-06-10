@@ -29,12 +29,7 @@
   
   <!-- Profile Views -->
   <a href="https://visitcount.itsvg.in">
-    <img alt="Profile Views" src="https://visitcount.itsvg.in/api?id=vkrm03&label=Profile%20Views&color=12&icon=0&pretty=true&style=for-the-badge"/>
-  </a>
-
-  <!-- Public Repos -->
-  <a href="https://github.com/vkrm03?tab=repositories">
-    <img alt="Public Repos" src="https://img.shields.io/badge/Public%20Repos-🗂️%20${{ public_repos }}-blue?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Profile_Views-✨--k-and-growing-blueviolet?style=for-the-badge">
   </a>
 
   <!-- Contributions (Manual count via Shields.io) -->
