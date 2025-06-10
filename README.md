@@ -35,13 +35,13 @@
 
 
 
-
 <!-- Intro Typing Animation -->
 <p align="center">
   <a href="https://github.com/vkrm03">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=f75c7e&center=true&vCenter=true&width=800&lines=🔭+Working+on+Software+%2B+IoT+Projects;🌱+Currently+learning+Flutter+%26+Dart;☁️+AI%2FML+%2B+Cloud+%2B+DevOps+Explorer;💬+Ask+me+about+MERN+%2F+Python+%2F+IoT;📫+Reach+me+at+vikramrokith03@gmail.com;📄+Check+out+my+Resume+for+more" alt="Intro Typing Animation"/>
   </a>
 </p>
+
 
 
 
