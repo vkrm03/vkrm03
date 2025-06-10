@@ -22,7 +22,7 @@
     <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/vkrm03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="Profile Views" src="https://freshidea.com/jonah/app/vkrm03-profile-views"/>
+    <img alt="Profile Views" src="https://visitcount.itsvg.in/api?id=vkrm03&label=Profile%20Views&color=12&icon=0&pretty=true"/>
   </a>
 </p>
 
