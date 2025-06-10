@@ -1,25 +1,45 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Banner Image -->
+<p align="center">
+  <a href="https://github.com/vkrm03">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Vikram Banner" />
+  </a>
+</p>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, I'm Vikram <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/waving.gif" alt="wave" style="width: 40px; height: 40px;" /></h1></summary>
-    I build scalable web applications and innovative IoT solutions that bridge hardware and software. Passionate about open source, mentoring, and continuous learning.
-  </ul>
-</div>
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20MERN%20developer;AI/ML%20%2B%20IoT%20Innovator;Open%20Source%20Contributor;Always%20Learning%20Something%20New!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
 
-<!--- snake -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake">
-</div>
+<!-- Social Icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/vikrma"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/vkrm03"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:vikramrokith03@gmail.com"><img width="32px" alt="Gmail" title="Mail Me" src="https://img.icons8.com/fluency/48/gmail.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img width="32px" alt="Discord" title="Discord" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://github.com/vkrm03"><img width="32px" alt="GitHub" title="GitHub" src="https://img.icons8.com/ios-glyphs/30/github.png"/></a>
+</p>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Turning Code into Magic ⚡</h2></summary>
-  </ul>
-</div>
+<!-- Optional Metrics -->
+<p align="center">
+  <a href="https://github.com/vkrm03?tab=repositories&sort=stargazers">
+    <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/vkrm03?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://github.com/vkrm03?tab=followers">
+    <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/vkrm03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="Profile Views" src="https://freshidea.com/jonah/app/vkrm03-profile-views"/>
+  </a>
+</p>
+
+
+
 
 <!--Intro start-->
 <ul>
@@ -106,5 +126,3 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <hr>
-<p>Credit: <a href="https://github.com/1010nishant">1010nishant</a></p>
-<p>Last Edited on: 10/6/2025</p>
