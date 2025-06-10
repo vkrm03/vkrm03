@@ -36,23 +36,13 @@
 
 
 
-<!--Intro start-->
-<div align="center">
+<!-- Intro Typing Animation -->
+<p align="center">
+  <a href="https://github.com/vkrm03">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=f75c7e&center=true&vCenter=true&width=800&lines=🔭+Working+on+Software+%2B+IoT+Projects;🌱+Currently+learning+Flutter+%26+Dart;☁️+AI%2FML+%2B+Cloud+%2B+DevOps+Explorer;💬+Ask+me+about+MERN+%2F+Python+%2F+IoT;📫+Reach+me+at+vikramrokith03@gmail.com;📄+Check+out+my+Resume+for+more" alt="Intro Typing Animation"/>
+  </a>
+</p>
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=🚀%20Building%20Next-Gen%20Web%20+%20IoT%20Solutions;🌱%20Learning%20Flutter%20%26%20Cloud%20DevOps;💡%20Exploring%20AI%20%2B%20ML%20Horizons;🔥%20Tech%20Stack:%20MERN%20|%20Python%20|%20IoT;📬%20Let's%20Connect%20%40%20vikramrokith03@gmail.com&font=Fira%20Code&center=true&width=800&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Intro Typing Animation"/>
-
-  <br><br>
-
-  <p style="color: #fff; font-family: 'Fira Code', monospace; font-size: 16px; max-width: 700px;">
-    🔭 I’m currently crafting <span style="color: #f75c7e; font-weight: bold;">Software + IoT innovations</span> that merge the digital and physical worlds.<br>
-    🌱 Diving deep into <span style="color: #00bfff; font-weight: bold;">Flutter</span>, <span style="color: #ff69b4; font-weight: bold;">Cloud</span>, and <span style="color: #7cfc00; font-weight: bold;">DevOps</span>.<br>
-    💬 Reach out to chat about <span style="color: #ffa500; font-weight: bold;">React</span>, <span style="color: #ffd700; font-weight: bold;">Node.js</span>, <span style="color: #98fb98; font-weight: bold;">Python</span>, and <span style="color: #00ced1; font-weight: bold;">MongoDB</span>.<br>
-    📄 Check out my <a href="https://vkrm03.github.io/vkrm03/vikram_resume.pdf" style="color: #f75c7e; font-weight: bold; text-decoration: none;">Resume</a> for more on my experience.<br>
-    📫 Ping me at: <a href="mailto:vikramrokith03@gmail.com" style="color: #00ffcc; text-decoration: none;">vikramrokith03@gmail.com</a>
-  </p>
-
-</div>
-<!--Intro end-->
 
 
 
