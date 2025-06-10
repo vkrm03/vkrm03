@@ -5,6 +5,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/waving.gif" alt="wave" style="width: 40px; height: 40px;" /> , I'm Vikram</h1></summary>
+    I build scalable web applications and innovative IoT solutions that bridge hardware and software. Passionate about open source, mentoring, and continuous learning.
   </ul>
 </div>
 
