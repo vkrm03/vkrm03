@@ -75,19 +75,22 @@
 </div>
 <!--- trophy (end) -->
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
+<!-- h2 Title styled to match the vibe -->
+<div id="user-content-techstack">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block; color:#f75c7e;">🛠️ Tech Stack & Tools</h2></summary>
   </ul>
 </div>
 
-<!--tech stack icons-->
+<!-- Skill Icons with proper grouping and order -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,cpp,c,html,css,js,flutter,dart,git,firebase,figma,postman,tailwind,linux,nginx,bootstrap,selenium,mysql,sqlite,aws,arduino,vscode,github&perline=14">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,python,java,cpp,c,html,css,js,flutter,dart" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=git,linux,vscode,github,arduino,firebase,postman,figma,tailwind,bootstrap,selenium,nginx,aws,mysql,sqlite,postgres" />
   </a>
 </p>
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
