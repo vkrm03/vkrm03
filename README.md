@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
   <a href="https://github.com/vkrm03">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Vikram Banner" />
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Vikram Banner" />
   </a>
 </p>
 
