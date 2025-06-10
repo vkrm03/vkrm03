@@ -1,7 +1,7 @@
-<!-- Banner Image -->
+<!-- Typing animation for name -->
 <p align="center">
   <a href="https://github.com/vkrm03">
-    <img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InJhZ2UiLCJ0ZXh0IjoiVmlrcmFtIiwiaWF0IjoxNzQ5NTgxNzI2fQ.Rl3I71ClUBrt4qhNphodRnyZwaY82vozgTxAqbvboCM" alt="Vikram Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+I'm+Vikram;Full+Stack+MERN+Dev;AI+%2B+IoT+Engineer;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
