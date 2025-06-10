@@ -31,12 +31,7 @@
 
   <!-- Last Commit -->
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/vkrm03/vkrm03?logo=github&label=Last%20Commit&color=blueviolet&style=for-the-badge"/>
-</p>
 
-
-
-<!-- Styled Static Intro Section (Badge Vibes) -->
-<p align="center">
   <img src="https://img.shields.io/badge/🔭_Working_on-Software_+_IoT_Projects-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/🌱_Learning-Flutter_&_Dart-blueviolet?style=for-the-badge&logo=dart&logoColor=white" />
