@@ -37,27 +37,21 @@
 
 
 <!--Intro start-->
-<ul>
-<li>
-<p>🔭 I’m currently working on <strong>Software + IoT Projects</strong></p>
-</li>
-<li>
-<p>🌱 I’m currently learning <strong>Flutter & Dart</strong></p>
-</li>
-<li>
-<p>☁️ Keen interest in AI/ML + Cloud + DevOps</p>
-</li>
-<li>
-<p>💬 Ask me about <strong>React, Python, Node.js, Express, MongoDB</strong></p>
-</li>
-<li>
-<p>📫 Reach me at <strong><a href="mailto:vikramrokith03@gmail.com">vikramrokith03@gmail.com</a></strong></p>
-</li>
-<li>
-<p>📄 Know about my experiences <a href="https://vkrm03.github.io/vkrm03/vikram_resume.pdf">View Resume</a></p>
-</li>
-</ul>
+<div align="center">
+  <h2 style="color: #f75c7e; font-family: 'Fira Code', monospace;">👋 Welcome to My World!</h2>
+  <ul style="list-style: none; padding: 0; font-size: 1.1rem;">
+    <li>🔭 I’m currently working on <strong style="color: #55960c;">Software + IoT Projects</strong></li>
+    <li>🌱 I’m currently learning <strong style="color: #236ad3;">Flutter & Dart</strong></li>
+    <li>☁️ Keen interest in <strong style="color: #ff7f50;">AI/ML + Cloud + DevOps</strong></li>
+    <li>💬 Ask me about <strong style="color: #f75c7e;">React, Python, Node.js, Express, MongoDB</strong></li>
+    <li>📫 Reach me at <a href="mailto:vikramrokith03@gmail.com" style="color: #55960c; text-decoration: none;">vikramrokith03@gmail.com</a></li>
+    <li>📄 Know about my experiences <a href="https://vkrm03.github.io/vkrm03/vikram_resume.pdf" style="color: #236ad3; text-decoration: none;">View Resume</a></li>
+  </ul>
+</div>
 <!--Intro end-->
+
+
+
 
 <!--- stats & Trophy (start) -->
 <p align="center">
