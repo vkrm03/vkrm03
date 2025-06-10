@@ -85,9 +85,9 @@
 <!-- Skill Icons with proper grouping and order -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,python,java,cpp,c,html,css,js,flutter,dart" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,java,cpp,c,html,css,js,flutter" />
     <br><br>
-    <img src="https://skillicons.dev/icons?i=git,linux,vscode,github,arduino,firebase,postman,figma,tailwind,bootstrap,selenium,nginx,aws,mysql,sqlite,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,linux,vscode,github,arduino,bootstrap,selenium,nginx,mysql,postgres" />
   </a>
 </p>
 
