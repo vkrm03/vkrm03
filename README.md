@@ -18,29 +18,19 @@
 <!-- Optional Metrics -->
 <p align="center">
   <!-- GitHub Stars -->
-  <a href="https://github.com/vkrm03?tab=repositories&sort=stargazers">
-    <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/vkrm03?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  
+  <img alt="GitHub Stars" src="https://img.shields.io/badge/Stars-🌟%20123-blueviolet?style=for-the-badge&logo=github" />
+
   <!-- GitHub Followers -->
-  <a href="https://github.com/vkrm03?tab=followers">
-    <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/vkrm03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  
-  <!-- Profile Views -->
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://img.shields.io/badge/Profile_Views-✨--k-and-growing-blueviolet?style=for-the-badge">
-  </a>
+  <img alt="GitHub Followers" src="https://img.shields.io/badge/Followers-👥%20100-blueviolet?style=for-the-badge&logo=github" />
 
-  <!-- Contributions (Manual count via Shields.io) -->
-  <a href="https://github.com/vkrm03">
-    <img alt="GitHub Contributions" src="https://img.shields.io/badge/Contributions-🧠%201234-blueviolet?style=for-the-badge&logo=github"/>
-  </a>
+  <!-- Profile Views (Static or estimate) -->
+  <img alt="Profile Views" src="https://img.shields.io/badge/Profile%20Views-👁️%201.2k-blueviolet?style=for-the-badge&logo=github" />
 
-  <!-- Last Commit Badge -->
-  <a href="https://github.com/vkrm03">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/vkrm03/vkrm03?logo=github&label=Last%20Commit&color=ff7f50&style=for-the-badge"/>
-  </a>
+  <!-- Contributions -->
+  <img alt="Contributions" src="https://img.shields.io/badge/Contributions-🧠%201234-blueviolet?style=for-the-badge&logo=github" />
+
+  <!-- Last Commit -->
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/vkrm03/vkrm03?logo=github&label=Last%20Commit&color=blueviolet&style=for-the-badge"/>
 </p>
 
 
