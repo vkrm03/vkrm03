@@ -35,12 +35,16 @@
 
 
 
-<!-- Intro Typing Animation -->
-<p align="center">
-  <a href="https://github.com/vkrm03">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=f75c7e&center=true&vCenter=true&width=800&lines=🔭+Working+on+Software+%2B+IoT+Projects;🌱+Currently+learning+Flutter+%26+Dart;☁️+AI%2FML+%2B+Cloud+%2B+DevOps+Explorer;💬+Ask+me+about+MERN+%2F+Python+%2F+IoT;📫+Reach+me+at+vikramrokith03@gmail.com;📄+Check+out+my+Resume+for+more" alt="Intro Typing Animation"/>
-  </a>
-</p>
+<!-- Static Fira Code Styled Intro Section -->
+<div align="center" style="font-family:'Fira Code', monospace; color:#f75c7e; font-size:18px;">
+  <p>🔭 I’m currently working on <strong>Software + IoT Projects</strong></p>
+  <p>🌱 Currently learning <strong>Flutter & Dart</strong></p>
+  <p>☁️ Keen interest in <strong>AI/ML + Cloud + DevOps</strong></p>
+  <p>💬 Ask me about <strong>React, Python, Node.js, Express, MongoDB</strong></p>
+  <p>📫 Reach me at <strong><a href="mailto:vikramrokith03@gmail.com" style="color:#f75c7e;">vikramrokith03@gmail.com</a></strong></p>
+  <p>📄 Know about my experiences <a href="https://vkrm03.github.io/vkrm03/vikram_resume.pdf" style="color:#f75c7e;">View Resume</a></p>
+</div>
+
 
 
 
