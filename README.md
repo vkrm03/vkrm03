@@ -18,19 +18,22 @@
 <!-- Optional Metrics -->
 <p align="center">
   <!-- GitHub Stars -->
-  <img alt="GitHub Stars" src="https://img.shields.io/badge/Stars-🌟%20123-blueviolet?style=for-the-badge&logo=github" />
+  <a href="https://github.com/vkrm03?tab=repositories&sort=stargazers">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/vkrm03?style=for-the-badge&logo=github&label=Stars&color=blueviolet" />
+  </a>
 
   <!-- GitHub Followers -->
-  <img alt="GitHub Followers" src="https://img.shields.io/badge/Followers-👥%20100-blueviolet?style=for-the-badge&logo=github" />
+  <a href="https://github.com/vkrm03?tab=followers">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/vkrm03?style=for-the-badge&logo=github&label=Followers&color=blueviolet" />
+  </a>
 
-  <!-- Profile Views (Static or estimate) -->
-  <img alt="Profile Views" src="https://img.shields.io/badge/Profile%20Views-👁️%201.2k-blueviolet?style=for-the-badge&logo=github" />
-
-  <!-- Contributions -->
-  <img alt="Contributions" src="https://img.shields.io/badge/Contributions-🧠%201234-blueviolet?style=for-the-badge&logo=github" />
+  <!-- Profile Views -->
+  <a href="https://visitcount.itsvg.in">
+    <img alt="Profile Views" src="https://visitcount.itsvg.in/api?id=vkrm03&label=Profile%20Views&color=blueviolet&style=for-the-badge&icon=5&pretty=true" />
+  </a>
 
   <!-- Last Commit -->
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/vkrm03/vkrm03?logo=github&label=Last%20Commit&color=blueviolet&style=for-the-badge"/>
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/vkrm03/vkrm03?logo=github&label=Last%20Commit&color=blueviolet&style=for-the-badge" />
 
   <img src="https://img.shields.io/badge/🔭_Working_on-Software_+_IoT_Projects-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/🌱_Learning-Flutter_&_Dart-blueviolet?style=for-the-badge&logo=dart&logoColor=white" />
