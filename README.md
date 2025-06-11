@@ -28,8 +28,11 @@
   </a>
 
   <!-- Profile Views -->
-  <a href="https://visitcount.itsvg.in">
-    <img alt="Profile Views" src="https://visitcount.itsvg.in/api?id=vkrm03&label=Profile%20Views&color=blueviolet&style=for-the-badge&icon=5&pretty=true" />
+  <a href="https://github.com/vkrm03?tab=followers">
+    <img
+      alt="GitHub Followers"
+      src="https://img.shields.io/github/followers/vkrm03?style=for-the-badge&logo=github&label=Followers&color=blueviolet"
+    />
   </a>
 
   <!-- Last Commit -->
