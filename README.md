@@ -29,10 +29,12 @@
   </a>
   <a href="https://vkrm03.github.io/vkrm03/vikram_resume.pdf">
     <img src="https://img.shields.io/badge/📄_View_Resume-Click_Here-blueviolet?style=for-the-badge&logo=readme&logoColor=white" />
+    
   </a>
 </p>
 <p align="center">
 </p>
+
 <table align="center">
   <tr>
     <td width="50%" align="center">
@@ -45,6 +47,7 @@
     </td>
   </tr>
 </table>
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=vkrm03&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY">
