@@ -3,15 +3,18 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Vikram!&repeat=true" alt="Typing SVG" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20MERN%20developer;AI/ML%20%2B%20IoT%20Innovator;Open%20Source%20Contributor;Always%20Learning%20Something%20New!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/vkrm03?tab=repositories&sort=stargazers">
     <img alt="GitHub Stars" src="https://img.shields.io/github/stars/vkrm03?style=for-the-badge&logo=github&label=Stars&color=blueviolet" />
   </a>
+  
   <a href="https://github.com/vkrm03?tab=followers">
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/vkrm03?style=for-the-badge&logo=github&label=Followers&color=blueviolet" />
   </a>
@@ -69,6 +72,7 @@
 <a href="https://twitter.com/vikrama354575" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50"></a> 
 <a href="https://instagram.com/vkrxm_.io" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50"></a>
 </p>
+
 <div align="center">
 <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=vkrm03&icon=3&color=6" alt=""></a>   </p>
 </div>
