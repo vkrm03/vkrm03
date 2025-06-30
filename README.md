@@ -46,7 +46,7 @@
       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vkrm03&theme=tokyonight-duo&border_radius=5" alt="GitHub Streak" /></a>
     </td>
     <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut">
     </td>
   </tr>
 </table>
