@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full-stack+Web+Developer;Python+Developer;AI%2FML+Engineer;IoT+System+Builder;Open+Source+Contributor;Real-time+App+Developer;Scalable+Tech+Solutions" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;AI/ML%20%2B%20IoT%20Innovator;Open%20Source%20Contributor;Python%20Developer;Always%20Learning%20Something%20New!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
