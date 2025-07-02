@@ -3,13 +3,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Vikram!&repeat=true" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;AI/ML%20%2B%20IoT%20Innovator;Open%20Source%20Contributor;Python%20Developer;Always%20Learning%20Something%20New!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/vkrm03?tab=repositories&sort=stargazers">
     <img alt="GitHub Stars" src="https://img.shields.io/github/stars/vkrm03?style=for-the-badge&logo=github&label=Stars&color=blueviolet" />
