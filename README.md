@@ -30,7 +30,6 @@
 </p>
 <p align="center">
 </p>
-
 <table align="center">
   <tr>
     <td width="50%" align="center">
@@ -43,19 +42,16 @@
     </td>
   </tr>
 </table>
-
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=vkrm03&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY">
     </a>
 </div>
-
 <div id="user-content-techstack">
   <ul align="center">
     <summary><h2 style="display: inline-block; color:#f75c7e;">🛠️ Tech Stack & Tools</h2></summary>
   </ul>
 </div>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,java,cpp,c,html,css,js,flutter,django,flask" />
@@ -63,7 +59,6 @@
     <img src="https://skillicons.dev/icons?i=git,linux,vscode,github,arduino,bootstrap,selenium,nginx,mysql,postgres,tailwind,bash" />
   </a>
 </p>
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me Here🤝</h2></summary>
