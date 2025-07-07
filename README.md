@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;AI/ML%20%2B%20IoT%20Innovator;Open%20Source%20Contributor;Python%20Developer;Always%20Learning%20Something%20New!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;AI/ML%20%2B%20IoT%20Enthusiast;Open%20Source%20Contributor;Pre-Final%20Year%20IT%20Student;Event%20Organizer%20%2B%20Student%20Mentor;Python%20Developer;Always%20Learning%20Something%20New!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 <p align="center">
@@ -43,7 +43,6 @@
   </tr>
 </table>
 
-<!-- 🔥 Contribution Graph -->
 <p align="center">
   <a href="https://github.com/vkrm03">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=vkrm03&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FF6B6B&area=true&hide_border=true" alt="Vikram's GitHub Activity Graph" />
