@@ -42,6 +42,14 @@
     </td>
   </tr>
 </table>
+
+<!-- 🔥 Contribution Graph -->
+<p align="center">
+  <a href="https://github.com/vkrm03">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vkrm03&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FF6B6B&area=true&hide_border=true" alt="Vikram's GitHub Activity Graph" />
+  </a>
+</p>
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=vkrm03&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY">
