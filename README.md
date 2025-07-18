@@ -2,6 +2,7 @@
   <a href="https://github.com/vkrm03">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Vikram!&repeat=true" alt="Typing SVG" />
   </a>
+  
 </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -69,17 +70,21 @@
     <br><br>
     <img src="https://skillicons.dev/icons?i=git,linux,vscode,github,arduino,bootstrap,selenium,nginx,mysql,postgres,tailwind,bash" />
   </a>
+  
 </p>
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me Here🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me Here🤝</h2>
+    </summary>
   </ul>
 </div>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/vkrma" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"></a>
 <a href="https://twitter.com/vikrama354575" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50"></a> 
 <a href="https://instagram.com/vkrxm_.io" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50"></a>
 </p>
+
 <div align="center">
 <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=vkrm03&icon=3&color=6" alt=""></a>   </p>
 </div>
