@@ -7,14 +7,17 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;AI/ML%20%2B%20IoT%20Enthusiast;Open%20Source%20Contributor;Pre-Final%20Year%20IT%20Student;Event%20Organizer%20%2B%20Student%20Mentor;Python%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
+  
 </p>
 <p align="center">
   <a href="https://github.com/vkrm03?tab=repositories&sort=stargazers">
     <img alt="GitHub Stars" src="https://img.shields.io/github/stars/vkrm03?style=for-the-badge&logo=github&label=Stars&color=blueviolet" />
   </a>
+  
   <a href="https://github.com/vkrm03?tab=followers">
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/vkrm03?style=for-the-badge&logo=github&label=Followers&color=blueviolet" />
   </a>
+  
   <img alt="Profile Views" src="https://img.shields.io/badge/Profile%20Views-👁️%201.2k-blueviolet?style=for-the-badge&logo=github" />
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/vkrm03/vkrm03?logo=github&label=Last%20Commit&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/badge/🔭_Working_on-Software_+_IoT_Projects-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
@@ -24,6 +27,7 @@
   <a href="mailto:vikramrokith03@gmail.com">
     <img src="https://img.shields.io/badge/📫_Email_me-vikramrokith03@gmail.com-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
   <a href="https://vkrm03.github.io/vkrm03/vikram_resume.pdf">
     <img src="https://img.shields.io/badge/📄_View_Resume-Click_Here-blueviolet?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
