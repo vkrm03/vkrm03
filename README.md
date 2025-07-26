@@ -14,11 +14,9 @@
   <a href="https://github.com/vkrm03?tab=repositories&sort=stargazers">
     <img alt="GitHub Stars" src="https://img.shields.io/github/stars/vkrm03?style=for-the-badge&logo=github&label=Stars&color=blueviolet" />
   </a>
-  
   <a href="https://github.com/vkrm03?tab=followers">
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/vkrm03?style=for-the-badge&logo=github&label=Followers&color=blueviolet" />
   </a>
-  
   <img alt="Profile Views" src="https://img.shields.io/badge/Profile%20Views-👁️%201.2k-blueviolet?style=for-the-badge&logo=github" />
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/vkrm03/vkrm03?logo=github&label=Last%20Commit&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/badge/🔭_Working_on-Software_+_IoT_Projects-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
