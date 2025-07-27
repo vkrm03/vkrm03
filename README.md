@@ -64,7 +64,6 @@
     <br><br>
     <img src="https://skillicons.dev/icons?i=git,linux,vscode,github,arduino,bootstrap,selenium,nginx,mysql,postgres,tailwind,bash" />
   </a>
-  
 </p>
 <div id="user-content-toc">
   <ul align="center">
