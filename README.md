@@ -46,6 +46,13 @@
 
 <p align="center">
   <a href="https://github.com/vkrm03">
+    <img src="https://ghchart.rshah.org/vkrm03" alt="Vikram’s GitHub Chart" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/vkrm03">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=vkrm03&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FF6B6B&area=true&hide_border=true" alt="Vikram's GitHub Activity Graph" />
   </a>
 </p>
