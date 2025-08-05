@@ -46,9 +46,10 @@
 
 <p align="center">
   <a href="https://github.com/vkrm03">
-    <img src="https://ghchart.rshah.org/vkrm03" alt="Vikram’s GitHub Chart" />
+    <img src="https://ghchart.rshah.org/7a5fdb/vkrm03" alt="Vikram’s GitHub Chart" style="width: 800px; height: 150px;" />
   </a>
 </p>
+
 
 
 <p align="center">
