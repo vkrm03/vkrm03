@@ -1,3 +1,6 @@
+<div id="particles-js">
+
+
 <p align="center">
   <a href="https://github.com/vkrm03">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Vikram!&repeat=true" alt="Typing SVG" />
@@ -96,3 +99,30 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <hr>
+
+  
+</div>
+<script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
+<script>
+particlesJS("particles-js", {
+  particles: {
+    number: { value: 80 },
+    color: { value: "#7a5fdb" },
+    shape: { type: "circle" },
+    opacity: { value: 0.3 },
+    size: { value: 3 },
+    line_linked: {
+      enable: true,
+      distance: 150,
+      color: "#7a5fdb",
+      opacity: 0.3,
+      width: 1
+    },
+    move: { enable: true, speed: 2 }
+  }
+});
+</script>
+
+
+
+
