@@ -14,6 +14,7 @@
   <a href="https://github.com/vkrm03?tab=repositories&sort=stargazers">
     <img alt="GitHub Stars" src="https://img.shields.io/github/stars/vkrm03?style=for-the-badge&logo=github&label=Stars&color=blueviolet" />
   </a>
+  
   <a href="https://github.com/vkrm03?tab=followers">
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/vkrm03?style=for-the-badge&logo=github&label=Followers&color=blueviolet" />
   </a>
@@ -30,8 +31,10 @@
     <img src="https://img.shields.io/badge/📄_View_Resume-Click_Here-blueviolet?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
 </p>
+
 <p align="center">
 </p>
+
 <table align="center">
   <tr>
     <td width="50%" align="center">
