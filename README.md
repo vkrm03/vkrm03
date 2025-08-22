@@ -29,6 +29,7 @@
   <a href="mailto:vikramrokith03@gmail.com">
     <img src="https://img.shields.io/badge/📫_Email_me-vikramrokith03@gmail.com-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
   <a href="https://vkrm03.github.io/vkrm03/vikram_resume.pdf">
     <img src="https://img.shields.io/badge/📄_View_Resume-Click_Here-blueviolet?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
