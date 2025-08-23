@@ -57,7 +57,12 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkrm03&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://github.com/vkrm03">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkrm03&layout=compact&theme=radical" alt="Top Languages" style="width: 850px; height: 150px;" />
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/vkrm03">
