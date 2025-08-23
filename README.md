@@ -57,9 +57,7 @@
   </a>
 </p>
 
-<p align="center">
-    <img align="center" src="https://raw.githubusercontent.com/vkrm03/vkrm03/main/github-metrics.svg" alt="Languages in commits" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkrm03&layout=compact&theme=radical)
 
 <p align="center">
   <a href="https://github.com/vkrm03">
