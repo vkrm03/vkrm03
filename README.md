@@ -1,5 +1,4 @@
 <p align="center">
-  
   <a href="https://github.com/vkrm03">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Vikram!&repeat=true" alt="Typing SVG" />
   </a>
@@ -11,21 +10,15 @@
   </a>
 </p>
 
-
-
 <p align="center">
   <a href="https://github.com/vkrm03?tab=repositories&sort=stargazers">
     <img alt="GitHub Stars" src="https://img.shields.io/github/stars/vkrm03?style=for-the-badge&logo=github&label=Stars&color=blueviolet" />
   </a>
-
-
   
   <a href="https://github.com/vkrm03?tab=followers">
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/vkrm03?style=for-the-badge&logo=github&label=Followers&color=blueviolet" />
   </a>
 
-
-  
   <img alt="Profile Views Count" src="https://img.shields.io/badge/Profile%20Views-👁️%201.2k-blueviolet?style=for-the-badge&logo=github" />
   <img alt="Last Commited" src="https://img.shields.io/github/last-commit/vkrm03/vkrm03?logo=github&label=Last%20Commit&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/badge/🔭_Working_on-Software_+_IoT_Projects-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
@@ -41,7 +34,6 @@
     <img src="https://img.shields.io/badge/📄_View_Resume-Click_Here-blueviolet?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
 </p>
-
 
 <p align="center">
 </p>
@@ -65,7 +57,6 @@
     <img src="https://ghchart.rshah.org/7a5fdb/vkrm03" alt="Vikram’s GitHub Chart" style="width: 850px; height: 150px;" />
   </a>
 </p>
-
 
 <p align="center">
   <a href="https://github.com/vkrm03">
@@ -95,12 +86,10 @@
 </p>
 
 <div id="user-content-toc">
-  
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me Here🤝</h2>
     </summary>
   </ul>
-  
 </div>
 
 <p align="center">
