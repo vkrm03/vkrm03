@@ -77,7 +77,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,java,cpp,c,html,css,js,flutter,django,flask" />
     <br>
-    <br>
     <img src="https://skillicons.dev/icons?i=git,linux,vscode,github,arduino,bootstrap,selenium,nginx,mysql,postgres,tailwind,bash" />
   </a>
 </p>
