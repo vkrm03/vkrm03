@@ -75,9 +75,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp,dart,flutter,django,flask,react,nodejs,express,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,dart,flutter,django,flask,react,nodejs,express,html,css,js" />
     <br>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,git,github,vscode,linux,npm,bootstrap,selenium,nginx,bash,notion" />
+    <img src="https://skillicons.dev/icons?i=tailwind,mongodb,mysql,postgres,sqlite,supabase,git,github,linux,npm,bootstrap,selenium,bash" />
     <br>
     <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,kali,arduino,unity,vite,firebase" />
   </a>
