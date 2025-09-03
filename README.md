@@ -22,8 +22,8 @@
   <img alt="Profile Views Count" src="https://img.shields.io/badge/Profile%20Views-👁️%201.2k-blueviolet?style=for-the-badge&logo=github" />
   <img alt="Last Commited" src="https://img.shields.io/github/last-commit/vkrm03/vkrm03?logo=github&label=Last%20Commit&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/badge/🔭_Working_on-Software_+_IoT_Projects-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/🌱_Learning-Flutter_&_Dart-blueviolet?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/☁️_Interested_in-AI/ML_+_Cloud_+_DevOps-blueviolet?style=for-the-badge&logo=cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%B1_Learning-AI_&_ML-blueviolet?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/☁️_Interested_in-AI/ML_+_IoT_+_App_Dev_+_AR/VR-blueviolet?style=for-the-badge&logo=cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/💬_Ask_me_about-React,_Python,_Node,_Mongo-blueviolet?style=for-the-badge&logo=react&logoColor=white" />
   <a href="mailto:vikramrokith03@gmail.com">
     <img src="https://img.shields.io/badge/📫_Email_me-vikramrokith03@gmail.com-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" />
