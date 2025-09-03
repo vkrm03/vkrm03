@@ -75,11 +75,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,java,cpp,c,html,css,js,flutter,django,flask" />
+    <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp,dart,flutter,django,flask,react,nodejs,express,html,css,tailwind" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,linux,vscode,github,arduino,bootstrap,selenium,nginx,mysql,postgres,tailwind,bash" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,git,github,vscode,linux,npm,bootstrap,selenium,nginx,bash,notion" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,kali,arduino,unity,vite,firebase" />
   </a>
 </p>
+
 
 <div id="user-content-toc">
   <ul align="center">
